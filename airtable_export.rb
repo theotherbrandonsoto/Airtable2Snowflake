@@ -7,10 +7,10 @@ require 'uri'
 
 # Configuration
 CONFIG = {
-  base_id: 'appirNSRfONSuJzM6',
-  complaints_table_id: 'tblBpLdX6B5DfK8pt',  # US - Regulatory Complaints table
-  subcategories_table_id: 'tblKHi5AqBkTrFJEN',  # Product Type Sub Categories table
-  codes_table_id: 'tbl13uzimoOgGOIG6',  # Codes table
+  base_id: 'BASE',
+  complaints_table_id: 'TABLE NAME',  # US - Regulatory Complaints table
+  subcategories_table_id: 'TABLE NAME',  # Product Type Sub Categories table
+  codes_table_id: 'TABLE NAME',  # Codes table
   api_key: 'PAT TOKEN HERE'
 }
 
