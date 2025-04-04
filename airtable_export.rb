@@ -11,7 +11,7 @@ CONFIG = {
   complaints_table_id: 'tblBpLdX6B5DfK8pt',  # US - Regulatory Complaints table
   subcategories_table_id: 'tblKHi5AqBkTrFJEN',  # Product Type Sub Categories table
   codes_table_id: 'tbl13uzimoOgGOIG6',  # Codes table
-  api_key: 'pat2Lw6R0w6AeKsOo.1885e3f0de0e2aaf7d1596dac83efc6c9fce078bbf8c45fc7d0315fb7bd21d75'
+  api_key: 'PAT TOKEN HERE'
 }
 
 # Create data directory if it doesn't exist
